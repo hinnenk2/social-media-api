@@ -29,6 +29,7 @@ SO THAT my website can handle large amounts of unstructured data
 * Please contact me via my [Github Username](https://github.com/hinnenk2)
 
 ## WalkThrough Video
+[socialmediaapp.webm](https://github.com/hinnenk2/social-media-api/assets/124109780/2d5ea9fd-d621-499d-a4f2-134c31462a0e)
 
 ## Repo
 https://github.com/hinnenk2/social-media-api
