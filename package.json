@@ -1,0 +1,28 @@
+{
+  "name": "social-media-api",
+  "version": "1.0.0",
+  "description": "social-media-api using NoSQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "seed": "node utils/seed",
+    "heroku-postbuild": "node utils/seed.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hinnenk2/social-media-api"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://github.com/hinnenk2/social-media-api",
+  "dependencies": {
+    "dayjs": "^1.11.7",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.13"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
+}
