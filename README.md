@@ -11,7 +11,7 @@ SO THAT my website can handle large amounts of unstructured data
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [License] (#license)
+- [License](#license)
 - [Questions](#questions)
 
 ## Installation
